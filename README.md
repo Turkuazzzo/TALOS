@@ -1,6 +1,4 @@
-# Data Analysis Project — README + support files
-
-Bu doküman GitHub reposu için hazır **README.md**, `requirements.txt` ve `.gitignore` içeriklerini içerir. Notebook dosyanız: **`Data_Analysis.ipynb`**.
+# Data Analysis Project
 
 ---
 
