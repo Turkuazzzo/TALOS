@@ -16,7 +16,6 @@ TALOS/
 ├── .gitignore
 ├── Projects/
 │   └── 1_Hafta
-|       └── Images/  # Grafik analizleri
 └── LICENSE
 ```
 
