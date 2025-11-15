@@ -1,9 +1,3 @@
-# Data Analysis Project
-
----
-
-## Proje Başlığı
-
 **Data Analysis — 3 Veri Seti İncelemesi**
 
 ## Kısa Açıklama
@@ -35,21 +29,6 @@ Analizler:
    * [https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis](https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis)
 
 > Not: Kaggle verilerini kullanırken lisans/kullanım koşullarını kontrol edin. Drive linki özel ise repo içine doğrudan yüklememeyi tercih edin; kullanım talimatı veya küçük örnek veri ekleyin.
-
----
-
-## Repo Yapısı (önerilen)
-
-```
-TALOS/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── Projects/
-│   └── 1_Hafta
-|       └── Images/  # Grafik analizleri
-└── LICENSE
-```
 
 ---
 
