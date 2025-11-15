@@ -1,5 +1,5 @@
 
-## Repo Yapısı (önerilen)
+## Repo Yapısı
 
 ```
 TALOS/
