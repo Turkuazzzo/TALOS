@@ -56,4 +56,9 @@ jupyter notebook notebooks/Data_Analysis.ipynb
 # veya
 jupyter lab
 ```
+## Grafik Analizleri
+
+<img width="1339" height="821" alt="1" src="https://github.com/user-attachments/assets/2280c4f2-041a-4f04-a9ff-66db14819027" />
+
+
 
