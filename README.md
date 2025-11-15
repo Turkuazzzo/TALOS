@@ -41,13 +41,13 @@ Analizler:
 ## Repo Yapısı (önerilen)
 
 ```
-my-data-analysis-project/
+TALOS/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
 ├── Projects/
-│   └── Data_Analysis.ipynb
-├── images/                    # notebook içindeki görseller
+│   └── 1_Hafta
+|       └── Images/  # Grafik analizleri
 └── LICENSE
 ```
 
