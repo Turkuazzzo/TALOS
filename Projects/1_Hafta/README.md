@@ -72,4 +72,12 @@ jupyter lab
 <img width="1326" height="832" alt="7" src="https://github.com/user-attachments/assets/b2cd8d1b-70f7-465b-b564-f7afb6e76cef" />
 <img width="1138" height="628" alt="8" src="https://github.com/user-attachments/assets/76f600f0-be51-48c6-b013-ffcb79a775fe" />
 
+**IMDB Movies Dataset**
+
+<img width="327" height="127" alt="9" src="https://github.com/user-attachments/assets/e769921d-aa05-4e7e-8f21-dc9a2ea978fd" />
+<img width="421" height="135" alt="10" src="https://github.com/user-attachments/assets/1fbcade9-bd20-4119-b85e-d9dae9219f43" />
+<img width="671" height="148" alt="11" src="https://github.com/user-attachments/assets/4081b2f5-83ef-4bd4-af0c-6ac206027e15" />
+<img width="341" height="144" alt="12" src="https://github.com/user-attachments/assets/024a7ce8-c723-4131-af2b-2ea5c659395f" />
+<img width="1054" height="736" alt="13" src="https://github.com/user-attachments/assets/f70694aa-fea6-4b7b-88d7-48043f88e3cd" />
+
 
